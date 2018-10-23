@@ -13,7 +13,11 @@
   "author": "Julian Bilcke <julian.bilcke@datagica.com>",
   "license": "GPLv3",
   "dependencies": {
+    "object-hash": "^1.3.0",
+    "query-string": "^6.2.0",
+    "rpc-websockets": "^4.3.3"
   },
   "devDependencies": {
+    "@datagica/datanote-api-client": "0.0.16"
   }
 }
