@@ -1,0 +1,19 @@
+{
+  "name": "@datagica/datanote-api-job-balancer",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Datanote API Job Balancer",
+  "main": "./lib/index.js",
+  "scripts": {
+    "start": "node ./lib/index.js"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "author": "Julian Bilcke <julian.bilcke@datagica.com>",
+  "license": "GPLv3",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

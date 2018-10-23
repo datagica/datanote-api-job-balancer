@@ -1,0 +1,15 @@
+{
+  "debug": false,
+  "jobTimeout": 650000,
+  "port": 8979,
+  "host": "localhost",
+  "apiLimits": {
+    "maxDomains": 1,
+    "maxTypes": 10
+  },
+  "users": {
+    "localhost": {
+      "e85151ee9dd9e95d06067c8d5a2571f2605b9b1c": true
+    }
+  }
+}

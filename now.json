@@ -1,0 +1,7 @@
+{
+  "name": "datanote-api-job-balancer",
+  "forwardNpm": true,
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
