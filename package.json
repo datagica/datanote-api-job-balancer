@@ -1,7 +1,6 @@
 {
   "name": "@datagica/datanote-api-job-balancer",
   "version": "0.0.0",
-  "private": true,
   "description": "Datanote API Job Balancer",
   "main": "./lib/index.js",
   "scripts": {
