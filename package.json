@@ -1,13 +1,13 @@
 {
   "name": "@datagica/datanote-api-job-balancer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Datanote API Job Balancer",
   "main": "lib/index.js",
   "bin": {
     "datanote-api-job-balancer": "bin/datanote-api-job-balancer"
   },
   "scripts": {
-    "start": "datanote-api-job-balancer"
+    "start": "node lib/cli.js"
   },
   "engines": {
     "node": ">=8.11.0"
